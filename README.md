@@ -1,6 +1,3 @@
-# Datos del alumno
+# Primeros Pasos en _Git_
 
 
-- Nombre: Montecino Sainz Nestor Camilo.
-- Materia: Sistemas Operativos.
-- Framework: Docsify
